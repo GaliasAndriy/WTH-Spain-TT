@@ -10,5 +10,8 @@
     "WTG-Spain"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.4"
+  }
 }
